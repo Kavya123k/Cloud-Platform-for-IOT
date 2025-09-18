@@ -34,6 +34,8 @@ A scalable and secure cloud-based platform designed to manage, monitor, and anal
 🧑‍💻 Getting Started
 Prerequisites
 
+ScreenShot[
+
 Docker & Docker Compose
 
 Node.js (for local API server)
