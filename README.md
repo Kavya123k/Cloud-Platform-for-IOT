@@ -34,7 +34,7 @@ A scalable and secure cloud-based platform designed to manage, monitor, and anal
 🧑‍💻 Getting Started
 Prerequisites
 
-ScreenShot[
+ScreenShot[https://github.com/Kavya123k/Cloud-Platform-for-IOT/commit/6ad41b7a5933c0415979359fe7369ab1894045f5]
 
 Docker & Docker Compose
 
